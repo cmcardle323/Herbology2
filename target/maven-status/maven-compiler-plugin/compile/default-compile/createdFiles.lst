@@ -1,0 +1,5 @@
+com\plantbase\PlantRepository.class
+com\plantbase\AppController.class
+com\plantbase\Plant.class
+com\plantbase\PlantService.class
+com\plantbase\AppMain.class
